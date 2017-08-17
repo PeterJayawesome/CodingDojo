@@ -1,0 +1,155 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.background{
+  background-color: #245176;
+  width:970px;
+}
+.logoline img{
+  margin: 20px 0px 0px 20px;
+  height: 80px;
+  display: inline-block;
+  }
+.topright{
+  display: inline-block;
+  margin: 30px 30px 20px 30px;
+  position: relative;
+  left: 370px;
+  vertical-align: top;
+}
+.topright label{
+  margin-left: 40px;
+  color: white;
+}
+.topright a{
+  color: yellow;
+}
+.searchbar{
+  background-color: grey;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px;
+}
+.searchbar input{
+
+  font-size: 16px;
+}
+.searchbar input[type="text"]{
+  text-align: center;
+  padding: 5px 0px;
+  width: 100px;
+}
+.searchbar input[type="submit"]{
+  padding: 5px 9px;
+  background-color: #245176;
+  color: white;
+  border-top: 2px solid white;
+  border-left: 2px solid white;
+  border-right: 2px solid grey;
+  border-bottom: 2px solid grey;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px black;
+}
+.buttonbar{
+  background-color: #477EAC;
+  padding: 1px 40px;
+  margin: 10px 50px;
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px;
+}
+.buttonbar ul{
+  margin: 20px auto;
+  width: 700px
+  list-style-type: none;
+  padding: 0px;
+}
+.buttonbar li{
+  display: inline;
+}
+.buttonbar a{
+  padding: 20px 18px;
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  /*background-color: #dddddd;*/
+}
+.buttonbar a:hover{
+  background-color: #365D95;
+}
+.linklist{
+  display: inline-block;
+  text-align: center;
+  margin: 20px 10px 10px 50px;
+  padding: 20px;
+  vertical-align: top;
+  color: yellow;
+}
+.linklist ul{
+  list-style-type: none;
+}
+.linklist a{
+  color: white;
+}
+.content1{
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  margin: 10px 20px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  color: white;
+}
+#yellow{
+  color: yellow;
+  font-size: 22px;
+  padding: 5px 0px;
+}
+.content2{
+  padding: 10px;
+  background-color: white;
+}
+.getstart{
+  display: inline-block;
+  border-top: 3px solid #73A7D5;
+  /*border-bottom: 3px solid blue;*/
+  width: 350px;
+  height: 150px;
+  margin: 10px 10px 20px 110px;
+  /*padding: 5px 30px:*/
+  text-align: center;
+  vertical-align: top;
+}
+.content2 ul{
+  width: 250px;
+  margin: 0px auto;
+}
+.app{
+  display: inline-block;
+  border-top: 3px solid #73A7D5;
+  /*border-bottom: 3px solid blue;*/
+  width: 350px;
+  height: 150px;
+  margin: 10px 10px 20px 10px;
+  text-align: center;
+  vertical-align: top;
+}
+.content2 a{
+  color: #A8C8E5;
+  text-decoration: none;
+}
+
+.bottombar{
+  padding: 30px;
+  text-align: center;
+}
+.bottombar a{
+  color: grey;
+  padding: 0px 20px;
+}
+.bottombar p{
+  color: grey;
+  margin-top: 20px;
+  font-size: 10px;
+}
